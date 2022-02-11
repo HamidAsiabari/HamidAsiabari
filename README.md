@@ -3,6 +3,8 @@
 
 - 📫 How to reach me: 
  Email: hamidasiabari@gmail.com
+ personal website: asiabari.com
+ main project:soject.com
 
 
 <!--
