@@ -1,13 +1,16 @@
 ### Hi there 👋
 
 
+🔭 I’m currently working several projects as a project manager. We are a creative team    
+
 - 📫 How to reach me: 
 
-Email: hamidasiabari@gmail.com /n
+Email: hamidasiabari@gmail.com 
 
-personal website: asiabari.com /n
+personal website: asiabari.com 
 
-main project:soject.com /n
+main project:soject.com 
+
 
 
 <!--
