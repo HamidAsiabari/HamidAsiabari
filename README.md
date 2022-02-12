@@ -2,9 +2,12 @@
 
 
 - 📫 How to reach me: 
- Email: hamidasiabari@gmail.com
- personal website: asiabari.com
- main project:soject.com
+
+Email: hamidasiabari@gmail.com /n
+
+personal website: asiabari.com /n
+
+main project:soject.com /n
 
 
 <!--
