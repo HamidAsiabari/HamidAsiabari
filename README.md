@@ -3,7 +3,12 @@
 
 🔭 I’m currently working several projects as a project manager. We are a creative team    
 
+
+You can hire a developer here and it would be my pleasure to work with you.
+
+
 - 📫 How to reach me: 
+
 
 Email: hamidasiabari@gmail.com 
 
