@@ -14,7 +14,7 @@ Email: hamidasiabari@gmail.com
 
 personal website: asiabari.com 
 
-main project:soject.com 
+Hire developer: soject.com 
 
 
 
