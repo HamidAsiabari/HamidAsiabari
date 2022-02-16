@@ -1,4 +1,5 @@
 ### Hi there 👋
+I think we can work more efficiently in the current world and there are lots of new way to develop better software fast at a lower cost.
 
 
 🔭 I’m currently working several projects as a project manager. We are a creative team    
