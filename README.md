@@ -17,6 +17,7 @@ personal website: asiabari.com
 
 Hire developer: soject.com 
 
+development would be like order task and we will serve that task 
 
 
 <!--
