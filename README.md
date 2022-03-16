@@ -1,11 +1,11 @@
 ### Hi there 👋
-I think we can work more efficiently in the current world and there are lots of new way to develop better software fast at a lower cost.
+I belive we can work more efficiently in the current world and there are lots of new way to develop better software fast at a lower cost.
 
 
 <!-- 🔭 I’m currently working several projects as a project manager. We are a creative team    -->
 
 
-You can hire a developer here and it would be my pleasure to work with you.
+<!-- You can hire a developer here and it would be my pleasure to work with you. -->
 
 
 - 📫 How to reach me: 
@@ -17,7 +17,7 @@ personal website: asiabari.com
 
 Hire developer: soject.com 
 
-development would be like order task and we will serve that task 
+<!-- development would be like order task and we will serve that task  -->
 
 
 <!--
