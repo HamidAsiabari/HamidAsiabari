@@ -13,7 +13,7 @@ I believe we can work more efficiently in the current world and there are lots o
 
 Email: hamidasiabari@gmail.com 
 
-personal website: asiabari.com 
+Personal website: asiabari.com 
 
 Blog: soject.com 
 
