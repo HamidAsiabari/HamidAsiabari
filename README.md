@@ -15,7 +15,7 @@ Email: hamidasiabari@gmail.com
 
 personal website: asiabari.com 
 
-Hire developer: soject.com 
+Blog: soject.com 
 
 <!-- development would be like order task and we will serve that task  -->
 
