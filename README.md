@@ -23,15 +23,12 @@ Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
 golang -GORM
 
------
 
-R-GO
+R-GeneOntology
 
------
 
-java-spring5
+java-spring5 -spring boot
 
------
 
 PHP - CI
 
