@@ -11,7 +11,7 @@ I believe we can work more efficiently in the current world and there are lots o
 - 📫 How to reach me: 
 
 
-Email: hamidasiabari@gmail.com 
+Email: info@asiabari.com 
 
 Personal website: asiabari.com 
 
