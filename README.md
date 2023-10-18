@@ -21,14 +21,14 @@ Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?HamidAsiabari=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HamidAsiabari&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
 
 
-juicyfresh
+
 
 
 golang -GORM
