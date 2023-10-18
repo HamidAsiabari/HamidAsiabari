@@ -20,11 +20,15 @@ Blog: soject.com
 Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
 
+
 [![trophy](https://github-profile-trophy.vercel.app/?HamidAsiabari=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-https://github-profile-trophy.vercel.app/?HamidAsiabari=ryo-ma&theme=juicyfresh
+
+
+
+juicyfresh
 
 
 golang -GORM
