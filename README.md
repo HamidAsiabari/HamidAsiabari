@@ -2,20 +2,7 @@
 I believe we can work more efficiently in the current world and there are lots of new way to develop better software fast at a lower cost.
 
 
-<!-- 🔭 I’m currently working several projects as a project manager. We are a creative team    -->
-
-
-<!-- You can hire a developer here and it would be my pleasure to work with you. -->
-
-
 - 📫 How to reach me: 
-
-
-Email: info@asiabari.com 
-
-Personal website: asiabari.com 
-
-Blog: soject.com 
 
 Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
