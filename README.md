@@ -27,6 +27,9 @@ Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
 
 
+--> Expo ReactNative (Mobile & web) 
+--> Nestjs 
+--> SurrealDB 
 
 
 
