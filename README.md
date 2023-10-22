@@ -3,8 +3,7 @@ I believe we can work more efficiently in the current world and there are lots o
 
 
 - 📫 How to reach me:
-- 
-Email: hamidasiabari@gmail.com
+- Email: hamidasiabari@gmail.com
 
 Stackoverflow: https://stackoverflow.com/users/6025073/hamid-asiabari
 
