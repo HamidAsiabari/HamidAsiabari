@@ -22,12 +22,12 @@ This diverse skill set equips me to tackle a wide range of software development 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HamidAsiabari&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 I also possess hands-on experience with Ubuntu, Docker, and implementing CI/CD practices for server management. Additionally, I've honed my skills in the realm of DevOps, further enhancing my proficiency in managing and optimizing development and deployment processes.
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HamidAsiabari&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
